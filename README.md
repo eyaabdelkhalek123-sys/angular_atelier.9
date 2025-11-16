@@ -64,3 +64,5 @@ For more information on using the Angular CLI, including detailed command refere
 "# atelier.4_angular" 
 "# atelier.4_ANGULAR" 
 "# angular_atelier.5" 
+"# angular_atelier.9" 
+"# angular_atelier.9" 
